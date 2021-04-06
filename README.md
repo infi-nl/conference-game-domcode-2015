@@ -1,5 +1,11 @@
 # Infi / DomCode - TIS-100 challenge #
 
+----
+**⚠ Warning:** This repository is _frozen in time_, and getting no new (security) updates.
+It is left public, should it help and offer some guidance around its subjects to future visitors.
+Note that if you clone and install any (dev)dependencies, that you should possibly update them first, as this repository is getting no (security) updates anymore.
+----
+
 ## Puzzles ##
 
 Beginner:
